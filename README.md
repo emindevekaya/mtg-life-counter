@@ -1,1 +1,1 @@
-# mtg-life-counter
+# MTG Life Counter
